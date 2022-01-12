@@ -116,6 +116,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				9EADE89F2777CAA0008511D9 /* Fonts */,
 				13B07FAE1A68108700A75B9A /* settings_menu_rn */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* settings_menu_rnTests */,
@@ -137,6 +138,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		9EADE89F2777CAA0008511D9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		BC3F99972D090750E94B8AC6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,7 +153,6 @@
 				0F8F742C3DD3E033426FAECC /* Pods-settings_menu_rn-settings_menu_rnTests.debug.xcconfig */,
 				E85E8576B5FF4C91382DB7E8 /* Pods-settings_menu_rn-settings_menu_rnTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
